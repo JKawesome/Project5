@@ -15,3 +15,7 @@
 * new entity:
   * spawn a new type of mobile entity 
   * move and animate according to logic defined by you
+
+
+## P5 Extra Credit reqs
+...if we have time...

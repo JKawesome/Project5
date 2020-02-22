@@ -3,10 +3,10 @@
 ## P5 main reqs
 
 * visualization:
-  ** triggered by a mouse-click
-  ** affect 7+ world tiles in proximity to the mouse position of the click
-  ** affect NO MORE THAN 50% of the world 
-  ** shown by modifying background images of affected tiles (images must be new/original images)
+  ..* triggered by a mouse-click
+  ..* affect 7+ world tiles in proximity to the mouse position of the click
+  ..* affect NO MORE THAN 50% of the world 
+  * shown by modifying background images of affected tiles (images must be new/original images)
 * effect:
   ** 1+ type of existing mobile entity affected by the world event
   ** which one(s) must be based on proximity to the event 
